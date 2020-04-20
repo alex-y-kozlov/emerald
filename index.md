@@ -1,5 +1,3 @@
-# EUE Home
-
 - Application Signatures: 
   [\<code\>](https://github.com/Aternity/Application-Signatures) | 
   [\<wiki\>](https://github.com/Aternity/Application-Signatures/wiki) | 
