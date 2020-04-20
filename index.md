@@ -5,6 +5,6 @@
 *insert a shord description on repos and how to use and contribute*
 
 ## Navigation examples
-[Navigate to EUE repositpories](/eue_home.md)
+[Navigate to EUE repositpories](eue_home)
 
 [Navigate to APM repositpories](https://github.com/Aternity?q=APM)
